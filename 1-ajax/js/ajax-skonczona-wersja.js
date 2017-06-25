@@ -44,7 +44,7 @@ function pobierzDane() {
 				httpReq = null; //nulem przerywamy połączenie
 			}
 		}
-	}
+	}  
 
 	//Wysyłamy, połącz z serwerem/iniciowanie połaczenia
 	httpReq.send();
